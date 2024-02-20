@@ -1,10 +1,10 @@
 # 💫 About Me:
 Passionate about exploring the intersections of web development and machine learning, I am a versatile developer with hands-on experience in a variety of technologies. Currently immersed in the world of Machine Learning, I am eager to leverage my skills to create intelligent and innovative solutions.<br>
 
-## 💻 Web Development Enthusiast<br>
+### 💻 Web Development Enthusiast<br>
 With a strong foundation in HTML, CSS, and JavaScript, I specialize in crafting interactive and responsive web applications. I am proficient in popular frameworks like React.js and Next.js, allowing me to build modern and efficient user interfaces. My expertise extends to server-side development using Node.js, and I love the power and flexibility that TypeScript brings to my projects.<br>
 
-## 🤖 Machine Learning Learner<br>
+### 🤖 Machine Learning Learner<br>
 Diving into the realm of machine learning, I've gained proficiency in Python and its powerful libraries. My toolkit includes scikit-learn for classical machine learning algorithms, and I'm constantly exploring and experimenting with cutting-edge techniques in the field. From data preprocessing to model deployment, I enjoy every step of the machine learning pipeline.
 
 
