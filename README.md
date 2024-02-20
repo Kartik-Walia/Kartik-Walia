@@ -9,7 +9,7 @@ Diving into the realm of machine learning, I've gained proficiency in Python and
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stoic__kartik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-walia2002) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stoic__kartik) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCwlbVs7d-hULAcYkgyJse6g) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stoic__kartik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-walia2002) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stoic__kartik) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MGMCAREERINSTITUTE) 
 
 
 # 💻 Tech Stack:
